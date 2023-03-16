@@ -1,0 +1,655 @@
+NETWORK,PI,YEAR,MONTH,DAY,SITE,TRANSECT,SP_CODE,QUAD,SIDE,COUNT,AREA,GROUP,DIVISION.FAMILY,COMMON.DIVISION.NAME,SIZE,COMMON.NAME,KINGDOM,PHYLUM,CLASS,ORDER,FAMILY,GENUS,SPECIES,NOTES
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,16,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,24,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,32,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,16,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,24,I,1,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,32,O,6,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOEC,8,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,16,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,24,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,32,O,2,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOOV,8,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked sea peach,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia ovifera,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,0,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,16,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,24,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,32,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUCR,8,I,2,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,24,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,32,O,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,0,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,32,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,40,I,8,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,8,I,8,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,16,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,24,I,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,40,I,5,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LDJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,0,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,16,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,24,I,4,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,32,O,5,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,40,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MESE,8,I,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,0,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,16,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,24,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,32,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,40,I,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,0,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,16,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,24,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,32,O,7,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,40,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PHGU,8,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,0,O,16,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,32,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,40,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,8,I,19,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,0,O,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,24,I,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,40,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SLJ,8,I,40,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,16,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,24,I,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,32,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,STCL,8,I,2,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,0,O,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,16,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,24,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,32,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,40,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,URFE,8,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,16,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,24,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,40,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,0,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,16,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,24,I,1,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,32,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUCR,8,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,0,O,1,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,16,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,24,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,32,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUUN,8,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,0,O,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,16,O,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,24,I,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,32,O,1,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,40,I,1,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CUFR,8,I,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA,orange footed cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Cucumaria,Cucumaria frondosa,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,16,O,4,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,24,I,5,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,32,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,40,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LADI,8,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,16,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,24,I,7,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,32,O,4,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,LDJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,0,O,18,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,16,O,3,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,24,I,4,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,32,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,40,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,MESE,8,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,0,O,1,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,16,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,24,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,32,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,40,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PHGU,8,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,I'll check the hard copy
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,0,O,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,16,O,1,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,24,I,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,32,O,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,40,I,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PSFA,8,I,0,1,Invertebrate,Echinoderms,Sea Cucumbers,NA, scarlet cucumber,Animalia,Echinodermata,Holothuroidea,Dendrochirotida,Psolidae,Psolus,Psolus fabricii,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,0,O,12,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,16,O,12,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,24,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,32,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,0,O,4,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,16,O,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,24,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,32,O,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,40,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SLJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,16,O,2,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,24,I,1,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,32,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,40,I,1,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,STCL,8,I,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,0,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,16,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,24,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,32,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,40,I,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,URFE,8,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,24,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,40,I,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LADI,8,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,40,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LDJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,0,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,40,I,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,MFSE,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,0,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,16,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,24,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,32,O,4,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,40,I,5,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHGU,8,I,1,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,0,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,16,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,24,I,1,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,32,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,40,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SDS,8,I,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,16,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,8,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,16,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,24,I,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,32,O,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,STCL,8,I,1,1,Invertebrate,Chordates,Tunicates,NA,club tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Styela,Styela clava,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,0,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,16,O,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,24,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,32,O,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,40,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,URFE,8,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,16,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,24,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,40,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,16,O,1,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,24,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,32,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BOEC,8,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,0,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,16,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,24,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,32,O,1,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUCR,8,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Knobbed Whelk  ,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycon,Busycon carica,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,0,O,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,24,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CAIS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Atlantic Rock Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer irroratus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,24,I,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,40,I,2,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,0,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,32,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LADI,8,I,3,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,0,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,32,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,LDJ,8,I,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,0,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,16,O,27,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,24,I,42,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,32,O,4,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,40,I,5,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,MESE,8,I,3,1,Invertebrate,Cnidarians,Anthozoa,NA,Clonal Plumose Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Metridiidae,Metridium,Metridium senile pallidus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,0,O,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,16,O,4,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,24,I,3,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,32,O,2,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,40,I,15,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PHGU,8,I,0,1,Fish,Chordates,Fish,NA,Rock gunnel,Animalia,Chordata,Actinopterygii,Perciformes,Pholidae,Pholis,Pholis gunnellus,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,0,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,16,O,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,24,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,32,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,40,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SDS,8,I,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,0,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,16,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,40,I,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,16,O,14,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,40,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SLJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,0,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,16,O,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,24,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,32,O,1,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,40,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,URFE,8,I,0,1,Invertebrate,Cnidarians,Anthozoa,NA,Northern Red Anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Actiniidae,Urticina,Urticina felina,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,16,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,24,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,0,O,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,32,O,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,40,I,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CRFO,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crepidula fornicada,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,16,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,0,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,16,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,24,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,32,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,40,I,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,0,O,0,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,16,O,0,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,24,I,0,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,32,O,0,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,40,I,1,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,PLMA,8,I,0,1,Invertebrate,Molluscs,Bivalves,NA,Atlantic Sea  Scallop,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Placopecten,Placopecten magellanicus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,16,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,24,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,8,I,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,32,O,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,40,I,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SLJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,0,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,16,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,24,I,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,32,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,40,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,URCI,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,16,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,24,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,40,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,0,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,40,I,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRFO,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,0,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,16,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,24,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,32,O,2,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,40,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,0,O,2,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,16,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,24,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,32,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,40,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SDL,8,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,0,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,16,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,40,I,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,8,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,16,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,32,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,40,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SLJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,0,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,16,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,40,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,URCI,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,16,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,24,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,32,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,16,O,2,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,24,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,16,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,24,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LADI,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,LDJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,0,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,16,O,2,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,24,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,32,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,40,I,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,0,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,16,O,3,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,24,I,2,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,32,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,40,I,1,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SDL,8,I,1,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,16,O,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,24,I,11,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,32,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,16,O,17,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,24,I,6,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,32,O,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SLJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,0,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,40,I,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,URCI,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,16,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,24,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASFO,8,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,"NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,24,I,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,0,O,4,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,24,I,3,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,32,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,8,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,"NA,NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LDJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,0,O,11,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,16,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,8,I,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,0,O,7,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,24,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,40,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SLJ,8,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,"NA,NA,NA"
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,0,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,40,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,URCI,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,0,O,2,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,16,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,24,I,5,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,32,O,2,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BUUN,8,I,1,1,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,0,O,0,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,16,O,0,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,24,I,1,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,32,O,0,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,40,I,0,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,HOAM,8,I,0,1,Invertebrate,Arthropods,Crustaceans,NA,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,0,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,32,O,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,0,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,24,I,1,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,40,I,6,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SLJ,8,I,5,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,0,O,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,16,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,24,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,32,O,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,40,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,URCI,8,I,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,16,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,24,I,2,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,0,O,0,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,16,O,0,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,24,I,1,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,32,O,0,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,40,I,0,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASFOS,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,juvenile,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,0,O,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,24,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CABS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,Jonah Crab,Animalia,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer borealis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,0,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,16,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,24,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,32,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,40,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LADI,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,0,O,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,16,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,24,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,32,O,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,40,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,0,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,16,O,1,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,24,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,32,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,40,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDL,8,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,0,O,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,16,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,24,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,32,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,40,I,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SDS,8,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,0,O,8,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,24,I,10,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,32,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,40,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,8,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,0,O,5,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,16,O,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,24,I,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,40,I,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SLJ,8,I,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,0,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,16,O,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,24,I,1,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,32,O,2,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,40,I,2,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASFO,8,I,0,1,Invertebrate,Echinoderms,Sea Stars,NA,Forbes Star,Animalia,Echinodermata,Asteroidea,Forcipulatida,Asteriidae,Asterias,Asterias forbesi,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,0,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,16,O,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,24,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,32,O,1,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,40,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BOEC,8,I,0,1,Invertebrate,Chordates,Tunicates,NA,stalked tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Pyuridae,Boltenia,Boltenia echinata,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,0,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,16,O,1,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,24,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,32,O,0,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,40,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BUCA,8,I,0,1,Invertebrate,Molluscs,Gastropods,NA,Channeled Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Busyconidae,Busycotypus,Busycotypus canaliculatus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,0,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,16,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,24,I,1,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,32,O,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,40,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,HOAS,8,I,0,1,Invertebrate,Arthropods,Crustaceans,juvenile,American lobster,Animalia,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus americanus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,0,O,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,16,O,4,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,24,I,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,32,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,40,I,2,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,0,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,16,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,24,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,32,O,2,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,40,I,2,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDL,8,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,0,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,16,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,24,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,32,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,40,I,1,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SDS,8,I,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,0,O,13,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,16,O,9,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,24,I,10,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,32,O,13,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,40,I,17,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,8,I,4,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,0,O,5,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,16,O,3,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,32,O,18,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,40,I,4,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SLJ,8,I,7,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,0,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,16,O,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,24,I,2,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,8,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,0,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,16,O,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,24,I,1,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,32,O,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,40,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYSP,8,I,0,1,Fish,Chordates,Fish,<10cm,Sculpin,Animalia,Chordata,Actinopterygii,Scorpaeniformes,Cottidae,Myoxocephalus,Myoxocephalus,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,0,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,16,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,24,I,5,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,32,O,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,40,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDL,8,I,0,1,Invertebrate,Echinoderms,Urchins,>20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,0,O,2,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,16,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,24,I,1,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,32,O,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,40,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SDS,8,I,0,1,Invertebrate,Echinoderms,Urchins,juvenile <20mm,Green Sea Urchin,Animalia,Echinodermata,Echinoidea,Camarodonta,Strongylocentrotidae,Strongylocentrotus,Strongylocentrotus droebachiensis,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,0,O,3,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,16,O,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,24,I,25,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,32,O,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,40,I,0,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,8,I,1,1,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,0,O,7,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,16,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,24,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,32,O,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,40,I,2,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SLJ,8,I,0,1,Algae,Phaeophyta,Brown Algae,juvenile <10cm,NA,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima,NA

@@ -1,0 +1,231 @@
+NETWORK,PI,YEAR,MONTH,DAY,SITE,TRANSECT,SP_CODE,PERCENT_COVER,GROUP,DIVISION.FAMILY,COMMON.DIVISION.NAME,SIZE,COMMON.NAME,KINGDOM,PHYLUM,CLASS,ORDER,FAMILY,GENUS,SPECIES
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,B,72.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,BS,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,CHCR,2.5,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,COTR,66.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,GRAM,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,LS,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,PHRU,1.25,Algae,Rhodophyta,Erect Red Algae,NA,sea oak,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Phycodrys,Phycodrys rubens
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,POLS,1.25,Algae,Rhodophyta,Erect Red Algae,NA,lobster horns,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Rhodomelaceae,Polysiphonia,Polysiphonia
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,S,5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,3,SL,2.5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,B,63.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BL,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BM,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BS,13.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,BUSP,11.25,Invertebrate,Bryozoans,Bryozoans,NA,NA,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,Bugulina,Bugulina spicata
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,C,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CHCR,3.75,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,COTR,56.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,CYPU,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Purple claw weed,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Cystocloniaceae,Cystoclonium,Cystoclonium purpureum
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,ES,3.75,Invertebrate,Proifera,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,Encrusting Sponge
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,FALI,3.75,Invertebrate,Cnidarians,Anthozoa,NA,tiny white anemone,Animalia,Cnidaria,Anthozoa,Actiniaria,Edwardsiidae,Edwardsiella,Edwardsiella lineata
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,FIBR,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,GRAM,6.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,HJ,1.25,Algae,Rhodophyta,Erect Red Algae,NA,japan red algae,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Dasyaceae,Dasysiphonia,Dasysiphonia japonica
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PAPA,5,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PORO,2.5,Algae,Rhodophyta,Erect Red Algae,NA,goat tang,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Polyidaceae,Polyides,Polyides rotunda
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,PTSE,1.25,Algae,Rhodophyta,Erect Red Algae,NA,northern sea fern,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Wrangeliaceae,Ptilota,Ptilota serrata
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,S,12.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,24,Fort Weatherill,4,SL,1.25,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ASPO,1.25,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BL,56.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BM,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BOVI,2.5,Invertebrate,Chordates,Tunicates,NA,orange sheath tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Botrylloides,Botrylloides violaceus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BS,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,BUNE,2.5,Invertebrate,Bryozoans,Bryozoans,NA,NA,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,Bugula,Bugula neritina
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,C,13.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,CHCR,3.75,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,CHPA,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Rhodymeniales,Champiaceae,Champia,Champia parvula
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,COTR,41.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,CYPU,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Purple claw weed,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Cystocloniaceae,Cystoclonium,Cystoclonium purpureum
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,ECTO,7.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Ectocarpaceae,Ectocarpus,Ectocarpus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,HIRU,1.25,Algae,Rhodophyta,Red Algal Crusts,NA,NA,Plantae,Rhodophyta,Florideophyceae,Hildenbrandiales,Hildenbrandiaceae,Hildenbrandia,Hildenbrandia rubra
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,LADI,1.25,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,P,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PAPA,10,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,PORS,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Porphyra,Porphyra
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,S,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SH,20,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,SL,8.75,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,1,UAE,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ASPO,8.75,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,B,35,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BL,31.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BM,10,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BOVI,1.25,Invertebrate,Chordates,Tunicates,NA,orange sheath tunicate,Animalia,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Botrylloides,Botrylloides violaceus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BS,7.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,BUNE,1.25,Invertebrate,Bryozoans,Bryozoans,NA,NA,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,Bugula,Bugula neritina
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,C,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,CF,2.5,Invertebrate,Molluscs,Gastropods,NA,Slipper Snail,Animalia,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula fornicata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,COF,1.25,Algae,Chlorophyta,Green Algae,NA,Green fleece,Plantae,Chlorophyta,Ulvophyceae,Bryopsidales,Codiaceae,Codium,Codium fragile
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,COTR,42.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,ECTO,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Ectocarpaceae,Ectocarpus,Ectocarpus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,GRAM,3.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,HIRU,1.25,Algae,Rhodophyta,Red Algal Crusts,NA,NA,Plantae,Rhodophyta,Florideophyceae,Hildenbrandiales,Hildenbrandiaceae,Hildenbrandia,Hildenbrandia rubra
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,HYDI,1.25,Invertebrate,Annelids,Polychaetes,NA,Serpulid,Animalia,Annelida,Polychaeta,Sabellida,Serpulidae,Hydroides,Hydroides dianthus
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,PAPA,2.5,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,RAT,5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Red Algal Turf
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,S,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SH,12.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2016,8,23,Fort Weatherill,2,SL,26.25,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,.,292.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ASPO,1.25,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,BL,36.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,BM,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,BS,8.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,BUNE,3.75,Invertebrate,Bryozoans,Bryozoans,NA,NA,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bugulidae,Bugula,Bugula neritina
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,CLSP,7.5,Invertebrate,Proifera,Sponges,NA,NA,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Cliona,Cliona
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,COTR,8.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,DABA,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,ECTO,2.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Ectocarpaceae,Ectocarpus,Ectocarpus
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,GRAM,3.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,HJ,6.25,Algae,Rhodophyta,Erect Red Algae,NA,japan red algae,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Dasyaceae,Dasysiphonia,Dasysiphonia japonica
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,LADI,2.5,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,MYED,30,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SH,20,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,1,SL,1.25,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,.,372.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ASPO,7.5,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,BL,25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,BM,25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,BS,33.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,C,3.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CF,2.5,Invertebrate,Molluscs,Gastropods,NA,Slipper Snail,Animalia,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula fornicata
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CHAT,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CHCR,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CLAD,3.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,COTR,60,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,CRSP,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Banded weed,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Ceramiaceae,Ceramium,Ceramium
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,FUSP,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,GRAM,8.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,HJ,1.25,Algae,Rhodophyta,Erect Red Algae,NA,japan red algae,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Dasyaceae,Dasysiphonia,Dasysiphonia japonica
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,MYED,1.25,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,P,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,RAT,30,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Red Algal Turf
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SH,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SL,2.5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,SS,5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,UV,2.5,Algae,Chlorophyta,Green Algae,NA,Sea lettuce,NA,NA,NA,NA,NA,NA,Blady Ulvoid
+KEEN ONE,Humphries,2017,8,29,Fort Weatherill,2,ZOMA,1.25,Algae,Tracheophyta,Marine Flowering Plants,NA,marine eelgrass,Plantae,Tracheophyta,Magnoliopsida,Alismatales,Zosteraceae,Zostera,Zostera (Zostera) marina
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ASPO,11.25,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,BL,57.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,BM,16.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,BS,12.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,CF,2.5,Invertebrate,Molluscs,Gastropods,NA,Slipper Snail,Animalia,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula fornicata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,CHCR,3.75,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,CHPA,2.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Rhodymeniales,Champiaceae,Champia,Champia parvula
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,COTR,66.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,CYPU,2.5,Algae,Rhodophyta,Erect Red Algae,NA,Purple claw weed,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Cystocloniaceae,Cystoclonium,Cystoclonium purpureum
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,ECTO,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,Chromista,Ochrophyta,Phaeophyceae,Ectocarpales,Ectocarpaceae,Ectocarpus,Ectocarpus
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,GRAM,8.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,HJ,13.75,Algae,Rhodophyta,Erect Red Algae,NA,japan red algae,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Dasyaceae,Dasysiphonia,Dasysiphonia japonica
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,MYED,17.5,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,PAPA,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,RAT,7.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Red Algal Turf
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SH,11.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SL,5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,SS,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,UFR,1.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Filamentous Red
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,3,UT,2.5,Invertebrate,Chordates,Tunicates,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Compound tunicate
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,ASPO,6.25,Invertebrate,Cnidarians,Corals,NA,NA,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,BL,45,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,BM,3.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,BS,8.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,C,3.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,CHCR,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,CHPA,5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Rhodymeniales,Champiaceae,Champia,Champia parvula
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,CLSP,5,Invertebrate,Proifera,Sponges,NA,NA,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Cliona,Cliona
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,COTR,55,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,CYPU,5,Algae,Rhodophyta,Erect Red Algae,NA,Purple claw weed,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Cystocloniaceae,Cystoclonium,Cystoclonium purpureum
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,GRAM,5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Delesseriaceae,Grinnellia,Grinnellia americana
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HIRU,1.25,Algae,Rhodophyta,Red Algal Crusts,NA,NA,Plantae,Rhodophyta,Florideophyceae,Hildenbrandiales,Hildenbrandiaceae,Hildenbrandia,Hildenbrandia rubra
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,HJ,8.75,Algae,Rhodophyta,Erect Red Algae,NA,japan red algae,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Dasyaceae,Dasysiphonia,Dasysiphonia japonica
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,LADI,2.5,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,MYED,23.75,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,P,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,PAPA,2.5,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,POLS,1.25,Algae,Rhodophyta,Erect Red Algae,NA,lobster horns,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Rhodomelaceae,Polysiphonia,Polysiphonia
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,RAT,11.25,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Red Algal Turf
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SH,27.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SL,11.25,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2017,8,31,Fort Weatherill,4,SS,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,.,8.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,ASDA,2.5,Invertebrate,Cnidarians,Anthozoa,NA,Star Coral,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BL,12.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BM,32.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,BS,43.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,C,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,CHCR,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,COTR,38.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,EC,1.25,Algae,Rhodophyta,Red Algal Crusts,NA,NA,NA,NA,NA,NA,NA,NA,Encrusting coralline
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,FUSP,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,LADI,6.25,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,MYED,32.5,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,PAPA,5,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,S,8.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,SL,10,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,UAB,1.25,Invertebrate,Bryozoans,Bryozoans,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Arborescent Bryozoans
+KEEN ONE,Humphries,2018,9,7,Fort Weatherill,3,UFR,7.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Filamentous Red
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,.,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,ASDA,10,Invertebrate,Cnidarians,Anthozoa,NA,Star Coral,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,B,2.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,BL,32.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,BM,15,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,BS,30,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,C,7.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CHCR,2.5,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,COTR,72.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,CRSP,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Banded weed,Plantae,Rhodophyta,Florideophyceae,Ceramiales,Ceramiaceae,Ceramium,Ceramium
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,EC,1.25,Algae,Rhodophyta,Red Algal Crusts,NA,NA,NA,NA,NA,NA,NA,NA,Encrusting coralline
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,LDAT,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MEMA,1.25,Invertebrate,Bryozoans,Bryozoans,NA,sea lace,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Membraniporidae,Membranipora,Membranipora membranacea
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,MYED,2.5,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,S,7.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SH,5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,SL,12.5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,UFB,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,1,UFR,12.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Filamentous Red
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,.,12.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ARVI,1.25,Algae,Phaeophyta,Brown Algae,NA,NA,Chromista,Ochrophyta,Phaeophyceae,Desmarestiales,Arthrocladiaceae,Arthrocladia,Arthrocladia villosa
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,ASDA,1.25,Invertebrate,Cnidarians,Anthozoa,NA,Star Coral,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,B,1.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BL,15,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BM,17.5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,BS,46.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,C,5,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,CHCR,8.75,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,COTR,52.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,EC,3.75,Algae,Rhodophyta,Red Algal Crusts,NA,NA,NA,NA,NA,NA,NA,NA,Encrusting coralline
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,LADI,2.5,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,MYED,1.25,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,PAPA,7.5,Algae,Rhodophyta,Erect Red Algae,NA,Dulse,Plantae,Rhodophyta,Florideophyceae,Palmariales,Palmariaceae,Palmaria,Palmaria palmata
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,PORO,1.25,Algae,Rhodophyta,Erect Red Algae,NA,goat tang,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Polyidaceae,Polyides,Polyides rotunda
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SH,15,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,SL,2.5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,UFR,7.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Filamentous Red
+KEEN ONE,Humphries,2018,9,10,Fort Weatherill,2,UV,2.5,Algae,Chlorophyta,Green Algae,NA,Sea lettuce,NA,NA,NA,NA,NA,NA,Blady Ulvoid
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,.,21.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,ASDA,26.25,Invertebrate,Cnidarians,Anthozoa,NA,Star Coral,Animalia,Cnidaria,Anthozoa,Scleractinia,Rhizangiidae,Astrangia,Astrangia poculata
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,BL,25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,BM,20,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,BS,41.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,BUUN,1.25,Invertebrate,Molluscs,Gastropods,NA,Wavy Whelk,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,C,3.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,CHCR,1.25,Algae,Rhodophyta,Erect Red Algae,NA,Irish moss,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Gigartinaceae,Chondrus,Chondrus crispus
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,CLSP,3.75,Invertebrate,Proifera,Sponges,NA,NA,Animalia,Porifera,Demospongiae,Clionaida,Clionaidae,Cliona,Cliona
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,COTR,43.75,Algae,Rhodophyta,Erect Red Algae,NA,NA,Plantae,Rhodophyta,Florideophyceae,Gigartinales,Phyllophoraceae,Coccotylus,Coccotylus truncatus
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,DEVI,2.5,Algae,Phaeophyta,Brown Algae,NA,Sour or Stink Weed,Chromista,Ochrophyta,Phaeophyceae,Desmarestiales,Desmarestiaceae,Desmarestia,Desmarestia viridis
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,DIVE,3.75,Invertebrate,Chordates,Tunicates,NA,tunicate,Animalia,Chordata,Ascidiacea,Aplousobranchia,Didemnidae,Didemnum,Didemnum vexillum
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,EC,2.5,Algae,Rhodophyta,Red Algal Crusts,NA,NA,NA,NA,NA,NA,NA,NA,Encrusting coralline
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,HESA,1.25,Invertebrate,Echinoderms,Sea Stars,NA,Blood Star,Animalia,Echinodermata,Asteroidea,Spinulosida,Echinasteridae,Henricia,Henricia sanguinolenta
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LADI,1.25,Algae,Phaeophyta,Brown Algae,NA,Fingered Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Laminaria,Laminaria digitata
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,LDAT,1.25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,MYED,3.75,Invertebrate,Molluscs,Bivalves,NA,Blue Mussel,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,S,6.25,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SCAU,1.25,Invertebrate,Bryozoans,Bryozoans,NA,single horn bryzoan,Animalia,Bryozoa,Gymnolaemata,Cheilostomatida,Bitectiporidae,Schizomavella,Schizomavella auriculata biaviculifera
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SH,3.75,Substrate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,SL,7.5,Algae,Phaeophyta,Brown Algae,NA,Sugar Kelp,Chromista,Ochrophyta,Phaeophyceae,Laminariales,Laminariaceae,Saccharina,Saccharina latissima
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,TETE,1.25,Invertebrate,Molluscs,Gastropods,NA,Plate Limpet,Animalia,Mollusca,Gastropoda,NA,Lottiidae,Testudinalia,Testudinalia testudinalis
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,UFR,2.5,Algae,Rhodophyta,Erect Red Algae,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Filamentous Red
+KEEN ONE,Humphries,2018,9,24,Fort Weatherill,4,UIH,1.25,Invertebrate,Cnidarians,Medusozoa,NA,NA,NA,NA,NA,NA,NA,NA,Unidentified Hydroid

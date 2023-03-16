@@ -1,0 +1,66 @@
+Dataset: UF Invertebrate Zoology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invertebrates Collection of the Swedish Museum of Natural History 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: UMZC Zoological Specimens 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Florida Invertebrate Paleontology 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NCSM Non-molluscan Invertebrates Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of California Museum of Paleontology 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección del Phylum Cnidaria del Museo de Zoología de la Universidad de Concepción  UCCC_MZUC_CNI 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Hexacorallians of the world 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis National Natural History Museum (NL) – Invertebrate specimens from marine expeditions 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NCSM Invertebrate Paleontology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CAS Invertebrate Zoology (IZ) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d'outre-mer et de la métropole (ICOM_16) issu des données biogéographiques de TAXREF v16 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Marine Invertebrate voucher specimens at the Florida Biodiversity Collection, Florida Fish and Wildlife Conservation Commission 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Southern Maine Community College Gulf of Maine Invertebrate Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NOAA Deep Sea Corals Research and Technology Program 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invertebrate Zoology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biodiversity Research and Teaching Collections - TCWC Marine Invertebrates 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Material Samples (USNM) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Non-vertebrate Paleontology, Jackson School Museum of Earth History, University of Texas at Austin 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SDSM Invertebrate Collections 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bernice P. Bishop Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Royal BC Museum - Invertebrates Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Cnidaria 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Cnidaria 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Invertebrate Paleontology Division, Yale Peabody Museum 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Référentiel taxonomique national (TAXREF) - Inventaire des Collectivités d'outre-mer et de la métropole (ICOM_15) issu des données biogéographiques de TAXREF v15 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ocean Genome Legacy Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The cnidarians collection (IK) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
