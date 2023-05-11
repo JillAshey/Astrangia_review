@@ -1,0 +1,135 @@
+---
+title: "Astrangia poculata distribution"
+author: "jillashey"
+date: "2023-05-11"
+output: html_document
+---
+
+This script creates a map of Astrangia distribution based on data collected from OBIS and xxxxx. 
+
+## Load packages 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+install.packages(c("cowplot", "googleway", "ggplot2", "ggrepel", 
+"ggspatial", "libwgeom", "sf", "rnaturalearth", "rnaturalearthdata"))
+
+library("cowplot")
+library("googleway")
+library("ggplot2")
+library("ggrepel")
+library("ggspatial")
+#library("libwgeom")
+library("sf")
+library("rnaturalearth")
+library("rnaturalearthdata")
+library("tidyverse")
+```
+
+## Load and subset data 
+```{r}
+## data from OBIS
+obis <- read.csv("data/OBIS/Occurrence.csv")
+obis <- obis %>%
+  select(id, decimallongitude, decimallatitude, date_year, scientificname, originalscientificname, sst, basisofrecord, occurrencestatus, waterbody, country, stateprovince) %>% # select specific columns of interest
+  drop_na(decimallongitude) %>% # remove data that does not have longitude values
+  drop_na(decimallatitude) # remove data that does not have latitude values
+
+## data from GBIF
+gbif <- read.delim("data/GBIF/occurrence.txt")
+gbif <- gbif %>%
+  select(gbifID, rightsHolder, basisOfRecord, occurrenceStatus, year, continent, countryCode, stateProvince, decimalLongitude, decimalLatitude, scientificName, acceptedScientificName) %>% # select specific columns of interest
+  drop_na(decimalLongitude) %>% # remove data that does not have longitude values
+  drop_na(decimalLatitude) # remove data that does not have latitude values
+```
+
+## Examine how the data was collected 
+```{r}
+unique(obis$basisofrecord)
+# [1] "HumanObservation"  "PreservedSpecimen"
+
+unique(gbif$basisOfRecord)
+# [1] "HUMAN_OBSERVATION"  "PRESERVED_SPECIMEN" "FOSSIL_SPECIMEN"    "MATERIAL_SAMPLE"   
+```
+
+I am only interested in mapping the points that came from 'human observations'. Preserved samples or fossil specimans might skew the data depending on where they were collected. 
+
+## Filter by Human Observation only 
+```{r}
+obis_human <- obis %>%
+  filter(basisofrecord == "HumanObservation")
+
+gbif_human <- gbif %>%
+  filter(basisOfRecord == "HUMAN_OBSERVATION")
+```
+
+## Combine datasets 
+```{r}
+obis_human$Source <- "OBIS"
+obis_human <- obis_human %>%
+  select(decimallongitude, decimallatitude, date_year, basisofrecord, Source)
+
+
+gbif_human$Source <- "GBIF"
+gbif_human <- gbif_human %>%
+  select(basisOfRecord, year, decimalLongitude, decimalLatitude, Source) %>%
+  relocate(decimalLongitude, decimalLatitude, year, basisOfRecord, Source) %>%
+  rename("decimallongitude" = "decimalLongitude", "decimallatitude" = "decimalLatitude", "date_year" = "year", "basisofrecord" = "basisOfRecord")
+  
+
+all <- rbind(obis_human, gbif_human)
+```
+
+## Plot individual sources 
+```{r}
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+## OBIS
+ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = obis_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
+  coord_sf(xlim = c(-100, -60), ylim = c(15, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  theme_linedraw() +
+  theme(legend.position = "none")
+
+## GBIF
+ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = gbif_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
+  coord_sf(xlim = c(-100, -50), ylim = c(10, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  theme_linedraw() +
+  theme(legend.position = "none")
+```
+
+## Plot both datasets 
+```{r}
+ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = all, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
+  coord_sf(xlim = c(-100, -60), ylim = c(15, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  theme_linedraw()
+```
+
+Weird that the GBIF dataset has less data points but in the plot, it looks like it has more data points compared to OBIS. Maybe the OBIS dataset has a lot of duplicates? 
+```{r}
+length(unique(obis_human$decimallongitude)) # 152 unique longitude measurements 
+length(unique(obis_human$decimallatitude)) # 139 unique latitude measurements 
+
+length(unique(gbif_human$decimallongitude)) # 393 unique longitude measurements 
+length(unique(gbif_human$decimallatitude)) # 395 unique latitude measurements 
+
+## Okay so the GBIS dataset has more unique lat/long measurements 
+```
+
+Also to note - GBIF has much more recent data. The most recent GBIF observation is from 2023, whereas the most recent OBIS observation is from 1993. OBIS seems like it has more historical data from the early 1900s. 
+
+
+Next step - make plots that include all samples, not just those that are from Human Observations 
+
+
