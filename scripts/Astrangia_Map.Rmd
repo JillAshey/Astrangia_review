@@ -85,29 +85,36 @@ all <- rbind(obis_human, gbif_human)
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
 ## OBIS
-ggplot(data = world) +
+obis_plot <- ggplot(data = world) +
   geom_sf() +
-  geom_point(data = obis_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
-  coord_sf(xlim = c(-100, -60), ylim = c(15, 45), expand = FALSE) +
+  geom_point(data = obis_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2, color = "black") +
+  coord_sf(xlim = c(-100, -55), ylim = c(13, 45), expand = FALSE) +
   ylab("Latitude") +
   xlab("Longitude") +
   theme_linedraw() +
   theme(legend.position = "none")
 
+obis_plot + annotate(geom = "text", x = -90, y = 37, label = "North America") +
+  annotate(geom = "text", x = -65, y = 28, label = "Atlantic Ocean")
+
 ## GBIF
-ggplot(data = world) +
+gbif_plot <- ggplot(data = world) +
   geom_sf() +
-  geom_point(data = gbif_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
-  coord_sf(xlim = c(-100, -50), ylim = c(10, 45), expand = FALSE) +
+  geom_point(data = gbif_human, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2, color = "black") +
+  coord_sf(xlim = c(-100, -55), ylim = c(13, 45), expand = FALSE) +
   ylab("Latitude") +
   xlab("Longitude") +
+  #geom_text(x = -90, y = 37, label = "test") +
   theme_linedraw() +
   theme(legend.position = "none")
+
+gbif_plot + annotate(geom = "text", x = -90, y = 37, label = "North America") +
+  annotate(geom = "text", x = -65, y = 28, label = "Atlantic Ocean")
 ```
 
 ## Plot both datasets 
 ```{r}
-ggplot(data = world) +
+both <- ggplot(data = world) +
   geom_sf() +
   geom_point(data = all, aes(x = decimallongitude, y = decimallatitude, shape = Source, color = Source), size = 2) +
   coord_sf(xlim = c(-100, -60), ylim = c(15, 45), expand = FALSE) +
@@ -131,5 +138,33 @@ Also to note - GBIF has much more recent data. The most recent GBIF observation 
 
 
 Next step - make plots that include all samples, not just those that are from Human Observations 
+
+## Plot with all data 
+```{r}
+## OBIS
+ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = obis, aes(x = decimallongitude, y = decimallatitude, color = basisofrecord), size = 2) +
+  #coord_sf(xlim = c(-100, -50), ylim = c(-15, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  theme_linedraw() 
+
+## GBIF
+ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = gbif, aes(x = decimalLongitude, y = decimalLatitude, color = basisOfRecord), size = 2) +
+  #coord_sf(xlim = c(-100, 0), ylim = c(-15, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  theme_linedraw()
+```
+
+For the human observation in Portugal, this was the notes: "tentative ID. as far as I know, this species has not been recorded from Europe, but it would be a species likely to be introduced via shipping, etc. the corallite and colony shape all seem appropriate, and it does commonly wash ashore. https://www.inaturalist.org/observations/59814300 https://www.inaturalist.org/observations/29579403". It was done on iNaturalist (most of GBIF info comes from there). 
+
+
+
+
+
 
 
