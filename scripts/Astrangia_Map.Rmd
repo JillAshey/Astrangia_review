@@ -11,8 +11,7 @@ This script creates a map of Astrangia distribution based on data collected from
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-install.packages(c("cowplot", "googleway", "ggplot2", "ggrepel", 
-"ggspatial", "libwgeom", "sf", "rnaturalearth", "rnaturalearthdata"))
+#install.packages(c("cowplot", "googleway", "ggplot2", "ggrepel", "ggspatial", "libwgeom", "sf", "rnaturalearth", "rnaturalearthdata"))
 
 library("cowplot")
 library("googleway")
@@ -31,22 +30,35 @@ library("tidyverse")
 ## data from OBIS
 obis <- read.csv("data/OBIS/Occurrence.csv")
 obis <- obis %>%
-  select(id, decimallongitude, decimallatitude, date_year, scientificname, originalscientificname, sst, basisofrecord, occurrencestatus, waterbody, country, stateprovince) %>% # select specific columns of interest
+  select(id, decimallongitude, decimallatitude, date_year, scientificname, originalscientificname, institutioncode, sst, basisofrecord, occurrencestatus, waterbody, country, stateprovince) %>% # select specific columns of interest
   drop_na(decimallongitude) %>% # remove data that does not have longitude values
   drop_na(decimallatitude) # remove data that does not have latitude values
 
 ## data from GBIF
 gbif <- read.delim("data/GBIF/occurrence.txt")
 gbif <- gbif %>%
-  select(gbifID, rightsHolder, basisOfRecord, occurrenceStatus, year, continent, countryCode, stateProvince, decimalLongitude, decimalLatitude, scientificName, acceptedScientificName) %>% # select specific columns of interest
+  select(gbifID, rightsHolder, basisOfRecord, occurrenceStatus, year, continent, countryCode, stateProvince, decimalLongitude, decimalLatitude, scientificName, acceptedScientificName, collectionCode, datasetName) %>% # select specific columns of interest
   drop_na(decimalLongitude) %>% # remove data that does not have longitude values
   drop_na(decimalLatitude) # remove data that does not have latitude values
 ```
 
-## Examine how the data was collected 
+## Examine where the data came from & how the data was collected 
 ```{r}
+## OBIS
+unique(obis$institutioncode)
+#  [1] "WoodsHoleBioSurvey"                             "HRI"                                            ""                                              
+#  [4] "Smithsonian Environmental Research Center"      "SMCC"                                           "TCWC"                                          
+#  [7] "USNM"                                           "NOAA, NMFS, Northeast Fisheries Science Center" "EMAP_NCA"                                      
+# [10] "HEX"                                            "OGL"                                            "UF"    
+
 unique(obis$basisofrecord)
 # [1] "HumanObservation"  "PreservedSpecimen"
+
+
+## GBIF
+unique(gbif$datasetName)
+# [1] "iNaturalist research-grade observations"     ""                                            "NMNH Extant Biology"                        
+# [4] "NMNH Material Samples (USNM)"                "Ocean Genome Legacy Collection"              "NCSM Non-molluscan Invertebrates Collection"
 
 unique(gbif$basisOfRecord)
 # [1] "HUMAN_OBSERVATION"  "PRESERVED_SPECIMEN" "FOSSIL_SPECIMEN"    "MATERIAL_SAMPLE"   
@@ -58,9 +70,11 @@ I am only interested in mapping the points that came from 'human observations'. 
 ```{r}
 obis_human <- obis %>%
   filter(basisofrecord == "HumanObservation")
+unique(obis_human$institutioncode)
 
 gbif_human <- gbif %>%
   filter(basisOfRecord == "HUMAN_OBSERVATION")
+unique(gbif_human$datasetName)
 ```
 
 ## Combine datasets 
@@ -69,14 +83,12 @@ obis_human$Source <- "OBIS"
 obis_human <- obis_human %>%
   select(decimallongitude, decimallatitude, date_year, basisofrecord, Source)
 
-
 gbif_human$Source <- "GBIF"
 gbif_human <- gbif_human %>%
   select(basisOfRecord, year, decimalLongitude, decimalLatitude, Source) %>%
   relocate(decimalLongitude, decimalLatitude, year, basisOfRecord, Source) %>%
   rename("decimallongitude" = "decimalLongitude", "decimallatitude" = "decimalLatitude", "date_year" = "year", "basisofrecord" = "basisOfRecord")
   
-
 all <- rbind(obis_human, gbif_human)
 ```
 
@@ -121,6 +133,7 @@ both <- ggplot(data = world) +
   ylab("Latitude") +
   xlab("Longitude") +
   theme_linedraw()
+both
 ```
 
 Weird that the GBIF dataset has less data points but in the plot, it looks like it has more data points compared to OBIS. Maybe the OBIS dataset has a lot of duplicates? 
@@ -162,6 +175,69 @@ ggplot(data = world) +
 
 For the human observation in Portugal, this was the notes: "tentative ID. as far as I know, this species has not been recorded from Europe, but it would be a species likely to be introduced via shipping, etc. the corallite and colony shape all seem appropriate, and it does commonly wash ashore. https://www.inaturalist.org/observations/59814300 https://www.inaturalist.org/observations/29579403". It was done on iNaturalist (most of GBIF info comes from there). 
 
+
+### Notes 
+
+floor function for year - group by decade 
+is there any overlap in data points between databases?
+Kernel density estimate - hot spots of where species are reported 
+
+## Group and plot by decade 
+```{r}
+test <- gbif_human %>%
+  mutate(decade = floor(date_year/10)*10) %>%
+  group_by(decade)
+
+## GBIF
+test_plot <- ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = test, aes(x = decimallongitude, y = decimallatitude, color = decade), size = 2) +
+  coord_sf(xlim = c(-100, -55), ylim = c(13, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  #geom_text(x = -90, y = 37, label = "test") +
+  theme_linedraw() +
+  theme(legend.position = "none")
+
+test_plot + annotate(geom = "text", x = -90, y = 37, label = "North America") +
+  annotate(geom = "text", x = -65, y = 28, label = "Atlantic Ocean")
+
+```
+
+
+
+Merge datasets 
+```{r}
+obis_human$coordinates <- paste0(obis_human$decimallatitude, sep = ", ", obis_human$decimallongitude)
+length(unique(obis_human$coordinates))
+
+gbif_human$coordinates <- paste0(gbif_human$decimalLatitude, sep = ", ", gbif_human$decimalLongitude)
+length(unique(gbif_human$coordinates))
+
+merge <- full_join(obis_human, gbif_human, by = "coordinates") %>%
+  drop_na(decimalLatitude, decimallatitude, decimalLongitude, decimallongitude)
+
+length(unique(merge$decimallongitude))
+length(unique(merge$decimallatitude))
+
+merge <- unique(merge)
+```
+
+# Plot merge datasets 
+```{r}
+test_plot <- ggplot(data = world) +
+  geom_sf() +
+  geom_point(data = merge, aes(x = decimallongitude, y = decimallatitude), size = 2) +
+  coord_sf(xlim = c(-90, -70), ylim = c(20, 45), expand = FALSE) +
+  ylab("Latitude") +
+  xlab("Longitude") +
+  #geom_text(x = -90, y = 37, label = "test") +
+  theme_linedraw() +
+  theme(legend.position = "none")
+
+test_plot + annotate(geom = "text", x = -90, y = 37, label = "North America") +
+  annotate(geom = "text", x = -65, y = 28, label = "Atlantic Ocean")
+```
 
 
 
