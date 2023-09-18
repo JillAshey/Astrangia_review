@@ -14,14 +14,33 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-## Load data 
+Plot w/ Multiple Areas instead of listing all the sub-groups (ie Life history & Symbiosis, Life History & Range, etc)
 ```{r}
-test <- read.csv("data/LiteratureByYear.csv")
+lit <- read.csv("../data/Literature.csv")
 
-lit_by_year <- ggplot(test, aes(y = PublicationNo., x = Year)) +
-  geom_bar(stat = "identity", position = "dodge", fill = "gray", color = "black", width = 1, size = 2) +
+# Calculate the total number of publications per year
+total_publications <- aggregate(Publications ~ Year, lit, sum)
+
+# Create a new data frame with percentages of publications per year and focal area
+data_percent <- merge(lit, total_publications, by = "Year", suffixes = c("", "_total"))
+data_percent$Percentage <- data_percent$Publications / data_percent$Publications_total * 100
+
+# Replace cells containing "&" with "Multiple"
+data_percent <- data_percent %>%
+  mutate(FocalArea = ifelse(grepl("&", FocalArea), "Multiple Areas", FocalArea))
+
+# Create the bar plot
+lit_plot <- ggplot(data_percent, aes(x = Year, y = Publications, fill = FocalArea)) +
+  geom_bar(stat = "identity", position = "stack", color = "black", width = 1, size = 2) +
+  scale_fill_manual(values = c("Life History" = "#1f77b4", 
+                               "Habitat" = "#2ca02c", 
+                               "Multiple Areas" = "#8c564b", 
+                               "Symbiosis" = "#9467bd", 
+                               "Microbiome " = "#d62728", 
+                               "Geographic Range" = "#ff7f0e")) +  # You can set your own colors
+  labs(x = "Year",
+       y = "Number of Publications") +
   theme_minimal() +
-  ylab("Number of Publications\n") +
   scale_y_continuous(expand = expansion(mult = c(0, 0.1)), limits = c(0, 6), breaks = seq(0,6,1)) +
   scale_x_continuous(breaks = seq(1925,2022,5)) +
   theme(axis.text.x = element_text(angle = 65,
@@ -36,12 +55,94 @@ lit_by_year <- ggplot(test, aes(y = PublicationNo., x = Year)) +
         axis.ticks.x = element_line(size = 1, color = "black"),
         axis.ticks.length = unit(0.5, "cm"),
         #plot.title = element_text(size = 100, hjust = 0.5),
-        plot.margin = margin(3,3,3,3, "cm"))
-lit_by_year
+        plot.margin = margin(3,3,3,3, "cm")) +
+  theme(legend.title = element_text(size = 35, face = "bold"), 
+        #legend.key.size = unit(5, "cm"),
+        #legend.key = element_rect(fill = "white"),
+        legend.text = element_text(size=30), 
+        #legend.position = c(1, 1), 
+        legend.justification = c("right"),
+        legend.box.just = "right",
+        #legend.box.margin = margin(t = 2, r = 1, b = 2, l = 1, unit = "cm"),
+        legend.background = element_rect(fill = "white"))
+        #legend.box.background = element_rect(color="white", linewidth=5))
+        #scale_fill_manual(values = c("chartreuse3", "chocolate2"))
+lit_plot
 
-ggsave("output/Literature_By_Year.pdf", lit_by_year, width = 40, height = 15, units = c("in"))
-ggsave("output/Literature_By_Year.png", lit_by_year, width = 40, height = 15, units = c("in")) ## gives an error when this tries to save as png: "Error in grid.Call(C_textBounds, as.graphicsAnnot(x$label), x$x, x$y, : polygon edge not found
+ggsave("../output/Literature_MA.pdf", lit_plot, width = 40, height = 15, units = c("in"))
+ggsave("../output/Literature_MA.png", lit_plot, width = 40, height = 15, units = c("in")) 
 ```
 
+Plot w/ all the sub-groups (ie Life history & Symbiosis, Life History & Range, etc)
+```{r}
+lit <- read.csv("../data/Literature.csv")
+
+# Calculate the total number of publications per year
+total_publications <- aggregate(Publications ~ Year, lit, sum)
+
+# Create a new data frame with percentages of publications per year and focal area
+data_percent <- merge(lit, total_publications, by = "Year", suffixes = c("", "_total"))
+data_percent$Percentage <- data_percent$Publications / data_percent$Publications_total * 100
+
+# Replace cells containing "&" with "Multiple"
+#data_percent <- data_percent %>%
+#  mutate(FocalArea = ifelse(grepl("&", FocalArea), "Multiple Areas", FocalArea))
+
+focal_area_colors <- c(
+  "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd",
+  "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf",
+  "#aec7e8", "#ffbb78", "#98df8a"
+)
+
+
+# Create the bar plot
+lit_plot <- ggplot(data_percent, aes(x = Year, y = Publications, fill = FocalArea)) +
+  geom_bar(stat = "identity", position = "stack", color = "black", width = 1, size = 2) +
+  scale_fill_manual(values = c("Life History" = "#1f77b4", 
+                               "Habitat" = "#ff7f0e", 
+                               "Life History & Symbiosis" = "#2ca02c",
+                               "Symbiosis" = "#d62728",
+                               "Habitat, Life History & Symbiosis" = "#9467bd",
+                               "Geographic Range, Habitat & Symbiosis " = "#8c564b", 
+                               "Geographic Range, Life History & Symbiosis " = "#e377c2",
+                               "Geographic Range & Habitat" = "#7f7f7f",
+                               "Habitat & Life History" = "#bcbd22",
+                               "Microbiome " = "#17becf", 
+                               "Geographic Range" = "#aec7e8",
+                               "Genomics & Transcriptomics " = "#ffbb78")) +
+  labs(x = "Year",
+       y = "Number of Publications") +
+  theme_minimal() +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1)), limits = c(0, 6), breaks = seq(0,6,1)) +
+  scale_x_continuous(breaks = seq(1925,2022,5)) +
+  theme(axis.text.x = element_text(angle = 65,
+                                   #vjust = 0.5,
+                                   hjust= 1,
+                                   size=40,
+                                   colour = "black"),
+        axis.title.x = element_text(size = 0),
+        axis.text.y = element_text(size = 40, colour = "black"),
+        axis.title.y = element_text(size = 45, face = "bold"),
+        axis.line = element_line(colour = 'black', size = 1),
+        axis.ticks.x = element_line(size = 1, color = "black"),
+        axis.ticks.length = unit(0.5, "cm"),
+        #plot.title = element_text(size = 100, hjust = 0.5),
+        plot.margin = margin(3,3,3,3, "cm")) +
+  theme(legend.title = element_text(size = 35, face = "bold"), 
+        #legend.key.size = unit(5, "cm"),
+        #legend.key = element_rect(fill = "white"),
+        legend.text = element_text(size=30), 
+        #legend.position = c(1, 1), 
+        legend.justification = c("right"),
+        legend.box.just = "right",
+        #legend.box.margin = margin(t = 2, r = 1, b = 2, l = 1, unit = "cm"),
+        legend.background = element_rect(fill = "white"))
+        #legend.box.background = element_rect(color="white", linewidth=5))
+        #scale_fill_manual(values = c("chartreuse3", "chocolate2"))
+lit_plot
+
+ggsave("../output/Literature.pdf", lit_plot, width = 40, height = 15, units = c("in"))
+ggsave("../output/Literature.png", lit_plot, width = 40, height = 15, units = c("in")) 
+```
 
 
