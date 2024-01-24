@@ -5,7 +5,7 @@ date: "2023-05-10"
 output: html_document
 ---
 
-This script will plot the cummulative distribution of the peer-reviewed literature on **Astrangia poculata**. This data does not include dissertations, theses, etc. 
+This script will plot the cummulative distribution of the peer-reviewed literature on **Astrangia poculata** prior to December 2023. This data does not include dissertations, theses, etc. 
 
 ## Load packages 
 ```{r setup, include=FALSE}
@@ -23,10 +23,6 @@ lit <- read.csv("../data/LiteratureByYear.csv")
 
 # Remove NAs
 lit <- na.omit(lit)
-
-# Add row for 2023 paper 
-new_row <- data.frame(Year = 2023, PublicationNo. = 1)
-lit <- rbind(lit, new_row)
 ```
 
 ## Plot lit data by year 
@@ -50,12 +46,11 @@ lit_by_year <- ggplot(lit, aes(y = PublicationNo., x = Year)) +
         axis.ticks.x = element_line(size = 1, color = "black"),
         axis.ticks.length = unit(0.5, "cm"),
         #plot.title = element_text(size = 100, hjust = 0.5),
-        plot.margin = margin(3,3,3,3, "cm"))
-lit_by_year
+        plot.margin = margin(3,3,3,3, "cm")); lit_by_year
 
 # Save plot 
-ggsave("../output/Literature_By_Year.pdf", lit_by_year, width = 40, height = 15, units = c("in"))
-ggsave("../output/Literature_By_Year.png", lit_by_year, width = 40, height = 15, units = c("in"))
+ggsave("../output/Literature_By_Year.pdf", lit_by_year, width = 40, height = 15)
+ggsave("../output/Literature_By_Year.png", lit_by_year, width = 40, height = 15)
 ```
 
 
@@ -86,8 +81,7 @@ lit_by_area <- ggplot(lit_focal, aes(x="", y=count, fill=Primary.Focal.Area)) +
   geom_text(aes(x = 1.6, label = paste0(round(percentage, 1), "%")), position = position_stack(vjust = 0.5), size = 6.5) +
   theme(legend.position = "right", 
         legend.text = element_text(size = 20), 
-        legend.title = element_text(size = 24))
-lit_by_area
+        legend.title = element_text(size = 24)); lit_by_area
 
 # Save plot 
 ggsave("../output/Literature_By_FocalArea.pdf", lit_by_area, width = 20, height = 15, units = c("in"))
@@ -106,10 +100,3 @@ fig <- ggdraw() +
 ggsave("../output/Figures/Figure3.pdf", fig, width = 20, height = 15, units = c("in"))
 ggsave("../output/Figures/Figure3.png", fig, width = 20, height = 15, units = c("in"))
 ```
-
-
-
-
-
-
-
