@@ -61,8 +61,11 @@ lit_focal <- read.csv("../data/LiteratureByFocalArea.csv")
 
 # Replace "Habitat" with "Habitat & Ecology"
 lit_focal$Primary.Focal.Area <- gsub("Habitat", "Habitat & Ecology", lit_focal$Primary.Focal.Area)
+```
 
-lit_focal <- lit_focal %>%
+## Calculate percentages of each focal area 
+```{r}
+lit_focal.percent <- lit_focal %>%
   group_by(Primary.Focal.Area) %>%
   summarise(count = n()) %>%
   mutate(percentage = (count / sum(count)) * 100)
@@ -70,7 +73,7 @@ lit_focal <- lit_focal %>%
 
 ## Plot lit data by focal area 
 ```{r}
-lit_by_area <- ggplot(lit_focal, aes(x="", y=count, fill=Primary.Focal.Area)) +
+lit_by_focal_area <- ggplot(lit_focal.percent, aes(x="", y=count, fill=Primary.Focal.Area)) +
   geom_col(color = "black", linewidth = 1.2) +
   coord_polar("y", start=0) + 
   theme_void() +
@@ -78,23 +81,69 @@ lit_by_area <- ggplot(lit_focal, aes(x="", y=count, fill=Primary.Focal.Area)) +
   scale_fill_brewer(palette = "Dark2") +
   theme_void() +
   labs(fill = "Focal Area") +
-  geom_text(aes(x = 1.6, label = paste0(round(percentage, 1), "%")), position = position_stack(vjust = 0.5), size = 6.5) +
+  geom_text(aes(x = 1.6, label = paste0(round(percentage, 1), "%")), position = position_stack(vjust = 0.5), size = 10) +
   theme(legend.position = "right", 
-        legend.text = element_text(size = 20), 
-        legend.title = element_text(size = 24)); lit_by_area
+        legend.text = element_text(size = 24), 
+        legend.title = element_text(size = 28)); lit_by_focal_area
 
 # Save plot 
-ggsave("../output/Literature_By_FocalArea.pdf", lit_by_area, width = 20, height = 15, units = c("in"))
-ggsave("../output/Literature_By_FocalArea.png", lit_by_area, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_FocalArea.pdf", lit_by_focal_area, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_FocalArea.png", lit_by_focal_area, width = 20, height = 15, units = c("in"))
 ```
 
-## Arrange both plots into a single figure
+## Calculate percentages of each location
+```{r}
+# Select location only and calculate percentages
+lit_focal_location.percent <- lit_focal %>%
+  na.omit(Location) %>%
+  select(Location) %>%
+  mutate(Location = trimws(Location)) %>%
+  separate_rows(Location, sep = "; ") %>%
+  group_by(Location) %>%
+  summarise(count = n()) %>%
+  mutate(percentage = (count / sum(count)) * 100)
+```
+
+## Plot lit data by location 
+```{r}
+lit_by_location <- ggplot(lit_focal_location.percent, aes(x="", y=count, fill=Location)) +
+  geom_col(color = "black", linewidth = 1.2) +
+  coord_polar("y", start=0) + 
+  theme_void() +
+  #geom_text(aes(label = paste0(round(percentage, 1), "%")), position = position_stack(vjust = 0.5)) +
+  #scale_fill_brewer(palette = "Dark6") +
+  scale_fill_manual(values = c("#7f7f7f", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#1f77b4", "#bcbd22")) +
+  theme_void() +
+  labs(fill = "Focal Area") +
+  geom_text(aes(x = 1.6, label = paste0(round(percentage, 1), "%")), position = position_stack(vjust = 0.5), size = 10) +
+  theme(legend.position = "right", 
+        legend.text = element_text(size = 24), 
+        legend.title = element_text(size = 28)); lit_by_location
+
+# Save plot 
+ggsave("../output/Literature_By_Location.pdf", lit_by_location, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_Location.png", lit_by_location, width = 20, height = 15, units = c("in"))
+```
+
+## Arrange plots into a single figure
+
+NEED TO WORK ON THIS
+
 ```{r}
 fig <- ggdraw() +
   draw_plot(lit_by_year, x = 0, y = 0.5, width = 1, height = 0.5) +
-  draw_plot(lit_by_area, x = 0, y = 0, width = 0.5, height = 0.5) + 
-  draw_plot_label(label = c("a", "b"), size = 20, x = c(0, 0), y = c(1, 0.5))
+  draw_plot(lit_by_area, x = 0.5, y = 0, width = 0.5, height = 0.5) + 
+  draw_plot(lit_by_location, x = 0, y = 0, width = 0.5, height = 0.5) + 
+  draw_plot_label(label = c("a", "b", "c"), size = 20, x = c(0, 0.5, 0), y = c(0.5, 0, 0))
 
+fig
+
+
+fig <- ggdraw() +
+  draw_plot(lit_by_year, x = 0, y = 0.5, width = 1, height = 0.5) +
+  draw_plot(lit_by_area, x = 0.5, y = 0, width = 0.5, height = 0.5) + 
+  draw_plot(lit_by_location, x = 0, y = 0, width = 0.5, height = 0.5) + 
+  draw_plot_label(label = c("a", "b", "c"), size = 20, x = c(0, 0), y = c(1, 0.5))
 
 # Save plot 
 ggsave("../output/Figures/Figure3.pdf", fig, width = 20, height = 15, units = c("in"))
