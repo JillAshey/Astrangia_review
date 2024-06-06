@@ -63,6 +63,7 @@ lit_focal <- read.csv("../data/LiteratureByFocalArea.csv")
 
 # Replace "Habitat" with "Habitat & Ecology"
 lit_focal$Primary.Focal.Area <- gsub("Habitat", "Habitat & Ecology", lit_focal$Primary.Focal.Area)
+lit_focal$Primary.Focal.Area <- gsub("Range", "Geographic Range", lit_focal$Primary.Focal.Area)
 ```
 
 ## Calculate percentages of each focal area 
@@ -82,26 +83,31 @@ df2 <- lit_focal.percent %>%
          pos = if_else(is.na(pos), count/2, pos))
 
 # Edit positions for certain focal areas, based on looking at the plot 
-df2$pos <- c(54, 49, 33, 18, 14.5, 6.5)
+df2$pos <- c(60, # Genomics & Transcriptomics 
+             55, # Geographic Range
+             49, # Habitat & Ecology 
+             33, # Life History
+             15, # Microbiome
+             8) # Symbiosis 
 
 lit_by_focal_area <- ggplot(lit_focal.percent, aes(x = "" , y = count, fill = fct_inorder(Primary.Focal.Area))) +
   geom_col(width = 1.5, color = "black", linewidth = 1.9) +
   #coord_polar(theta = "y") +
   coord_polar("y", start=0) + 
   scale_fill_brewer(palette = "Dark2") +
-  geom_label_repel(data = df2,
-                   aes(y = pos, label = paste(Primary.Focal.Area,"(", round(percentage, 1), "%)")),
-                   size = 15, nudge_x = 1, show.legend = FALSE,
-                   box.padding = 0.5, box.color = "black", box.alpha = 0.5, 
-                   label.r = unit(1, "lines"),  # Adjust the radius as needed
-                   label.padding = unit(1,"lines"),
-                   segment.color = NA) +
+  # geom_label_repel(data = df2,
+  #                  aes(y = pos, label = paste(Primary.Focal.Area,"(", round(percentage, 1), "%)")),
+  #                  size = 15, nudge_x = 1, show.legend = FALSE,
+  #                  box.padding = 0.5, box.color = "black", box.alpha = 0.5, 
+  #                  label.r = unit(1, "lines"),  # Adjust the radius as needed
+  #                  label.padding = unit(1,"lines"),
+  #                  segment.color = NA) +
   theme_void() + 
   theme(legend.position = "none"); lit_by_focal_area
 
 # Save plot 
-ggsave("../output/Literature_By_FocalArea.pdf", lit_by_focal_area, width = 20, height = 15, units = c("in"))
-ggsave("../output/Literature_By_FocalArea.png", lit_by_focal_area, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_FocalArea_BLANK.pdf", lit_by_focal_area, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_FocalArea_BLANK.png", lit_by_focal_area, width = 20, height = 15, units = c("in"))
 ```
 
 ## Calculate percentages of each location
@@ -134,6 +140,7 @@ df3$pos <- c(59.5, # Delaware
              53, # Georgia 
              50, # Maryland 
              46.5, # Massachusetts
+             42, # Mississippi
              40, # New York 
              36, # North Carolina 
              19, # Rhode Island 
@@ -143,20 +150,20 @@ lit_by_location <- ggplot(lit_focal_location.percent, aes(x = "" , y = count, fi
   geom_col(width = 1.5, color = "black", linewidth = 1.9) +
   #coord_polar(theta = "y") +
   coord_polar("y", start=0) + 
-  scale_fill_manual(values = c("#7f7f7f", "#ff7f0e", "#d62728", "#2ca02c", "#9467bd", "#8c564b", "#e377c2", "#1f77b4", "#bcbd22")) +
-  geom_label_repel(data = df3,
-                   aes(y = pos, label = paste(Location,"(", round(percentage, 1), "%)")),
-                   size = 15, nudge_x = 1, show.legend = FALSE,
-                   box.padding = 0.5, box.color = "black", box.alpha = 0.5, 
-                   label.r = unit(1, "lines"),  # Adjust the radius as needed
-                   label.padding = unit(1,"lines"),
-                   segment.color = NA) +
+  scale_fill_manual(values = c("#7f7f7f", "#ff7f0e", "#d62728", "#2ca02c", "#9467bd", "#8c564b", "#71ab94", "#1f77b4", "#bcbd22", "#eaa1a7")) +
+  # geom_label_repel(data = df3,
+  #                  aes(y = pos, label = paste(Location,"(", round(percentage, 1), "%)")),
+  #                  size = 15, nudge_x = 1, show.legend = FALSE,
+  #                  box.padding = 0.5, box.color = "black", box.alpha = 0.5, 
+  #                  label.r = unit(1, "lines"),  # Adjust the radius as needed
+  #                  label.padding = unit(1,"lines"),
+  #                  segment.color = NA) +
   theme_void() + 
   theme(legend.position = "none"); lit_by_location
 
 # Save plot 
-ggsave("../output/Literature_By_Location.pdf", lit_by_location, width = 20, height = 15, units = c("in"))
-ggsave("../output/Literature_By_Location.png", lit_by_location, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_Location_BLANK.pdf", lit_by_location, width = 20, height = 15, units = c("in"))
+ggsave("../output/Literature_By_Location_BLANK.png", lit_by_location, width = 20, height = 15, units = c("in"))
 ```
 
 In powerpoint, I added outlines around the boxes for emphasis. 
