@@ -55,8 +55,6 @@ ggsave("../output/Literature_By_Year.pdf", lit_by_year, width = 40, height = 15)
 ggsave("../output/Literature_By_Year.png", lit_by_year, width = 40, height = 15)
 ```
 
-
-
 ## Load lit data by focal area
 ```{r}
 lit_focal <- read.csv("../data/LiteratureByFocalArea.csv")
