@@ -19,41 +19,49 @@ library(plotly)
 library(ggrepel)
 ```
 
-## Load lit data by year 
+## Load supplementary data and count number of papers published per year 
 ```{r}
-lit <- read.csv("../data/LiteratureByYear.csv")
+supp <- read.csv("../data/SupplementalTable1.csv")
 
-# Remove NAs
-lit <- na.omit(lit)
+supp_summary <- supp %>%
+  group_by(Year.Published) %>%
+  summarise(Counts= n())
 ```
 
-## Plot lit data by year 
+Plot by year
 ```{r}
-lit_by_year <- ggplot(lit, aes(y = PublicationNo., x = Year)) +
-  geom_bar(stat = "identity", position = "dodge", fill = "gray", color = "black", width = 1, size = 2) +
-  theme_minimal() +
-  ylab("Number of Publications\n") +
-  scale_y_continuous(expand = expansion(mult = c(0, 0.1)), limits = c(0, 7), breaks = seq(0,7,1)) +
-  scale_x_continuous(breaks = seq(1925,2023,5)) +
-  theme_minimal() +
-  theme(axis.text.x = element_text(angle = 65,
-                                   #vjust = 0.5,
-                                   hjust= 1,
-                                   size=45,
-                                   colour = "black"),
-        axis.title.x = element_text(size = 0),
-        axis.text.y = element_text(size = 50, colour = "black"),
-        axis.title.y = element_text(size = 45, face = "bold"),
-        axis.line = element_line(colour = 'black', size = 1),
-        axis.ticks.x = element_line(size = 1, color = "black"),
-        axis.ticks.length = unit(0.5, "cm"),
-        #plot.title = element_text(size = 100, hjust = 0.5),
-        plot.margin = margin(3,3,3,3, "cm")); lit_by_year
+lit_by_year <- ggplot(supp_summary, aes(y = Counts, x = Year.Published)) + 
+  geom_bar(stat = "identity", position = "dodge", fill = "gray", color = "black", width = 1, size = 2) + 
+  theme_minimal() + 
+  ylab("Number of Publications\n") + 
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1)), limits = c(0, 6.5), breaks = seq(0,6,1)) + 
+  scale_x_continuous(breaks = seq(1925,2024,5)) + 
+  theme_minimal() + 
+  theme(axis.text.x = element_text(angle = 65, 
+                                   hjust= 1, 
+                                   size=45, 
+                                   colour = "black"), 
+        axis.title.x = element_text(size = 0), 
+        axis.text.y = element_text(size = 50, colour = "black"), 
+        axis.title.y = element_text(size = 45, face = "bold"), 
+        axis.line = element_line(colour = 'black', size = 1), 
+        axis.ticks.x = element_line(size = 1, color = "black"), 
+        axis.ticks.length = unit(0.5, "cm"), 
+        plot.margin = margin(3,3,3,3, "cm")) +
+  # Adding vertical lines at 1980, 2016, and 2021
+  geom_segment(aes(x = 1988, xend = 1988, y = 0, yend = 6), linetype = "dashed", color = "black", size = 2) +
+  geom_segment(aes(x = 2016, xend = 2016, y = 0, yend = 6), linetype = "dashed", color = "black", size = 2) +
+  geom_segment(aes(x = 2021, xend = 2021, y = 0, yend = 6), linetype = "dashed", color = "black", size = 2) +
+  # Adding text annotations above the lines
+  annotate("text", x = 1987.5, y = 6.3, label = "1988", hjust = 0, size = 15, color = "black", angle = 45) +
+  annotate("text", x = 2015.5, y = 6.3, label = "2016", hjust = 0, size = 15, color = "black",  angle = 45) +
+  annotate("text", x = 2020.5, y = 6.3, label = "2021", hjust = 0, size = 15, color = "black",  angle = 45)
 
 # Save plot 
 ggsave("../output/Literature_By_Year.pdf", lit_by_year, width = 40, height = 15)
 ggsave("../output/Literature_By_Year.png", lit_by_year, width = 40, height = 15)
 ```
+
 
 ## Load lit data by focal area
 ```{r}
