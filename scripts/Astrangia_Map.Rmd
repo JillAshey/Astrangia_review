@@ -27,14 +27,14 @@ library("tidyverse")
 ## Load and subset data 
 ```{r}
 ## data from OBIS
-obis <- read.csv("data/OBIS/Occurrence.csv")
+obis <- read.csv("../data/OBIS/2025/Occurrence.csv")
 obis <- obis %>%
   select(id, decimallongitude, decimallatitude, date_year, scientificname, originalscientificname, institutioncode, sst, basisofrecord, occurrencestatus, waterbody, country, stateprovince) %>% # select specific columns of interest
   drop_na(decimallongitude) %>% # remove data that does not have longitude values
   drop_na(decimallatitude) # remove data that does not have latitude values
 
 ## data from GBIF
-gbif <- read.delim("data/GBIF/occurrence.txt")
+gbif <- read.delim("../data/GBIF/2025/occurrence.txt")
 gbif <- gbif %>%
   select(gbifID, rightsHolder, basisOfRecord, occurrenceStatus, year, continent, countryCode, stateProvince, decimalLongitude, decimalLatitude, scientificName, acceptedScientificName, collectionCode, datasetName) %>% # select specific columns of interest
   drop_na(decimalLongitude) %>% # remove data that does not have longitude values
@@ -45,22 +45,11 @@ gbif <- gbif %>%
 ```{r}
 ## OBIS
 unique(obis$institutioncode)
-#  [1] "WoodsHoleBioSurvey"                             "HRI"                                            ""                                              
-#  [4] "Smithsonian Environmental Research Center"      "SMCC"                                           "TCWC"                                          
-#  [7] "USNM"                                           "NOAA, NMFS, Northeast Fisheries Science Center" "EMAP_NCA"                                      
-# [10] "HEX"                                            "OGL"                                            "UF"    
-
 unique(obis$basisofrecord)
-# [1] "HumanObservation"  "PreservedSpecimen"
-
 
 ## GBIF
 unique(gbif$datasetName)
-# [1] "iNaturalist research-grade observations"     ""                                            "NMNH Extant Biology"                        
-# [4] "NMNH Material Samples (USNM)"                "Ocean Genome Legacy Collection"              "NCSM Non-molluscan Invertebrates Collection"
-
 unique(gbif$basisOfRecord)
-# [1] "HUMAN_OBSERVATION"  "PRESERVED_SPECIMEN" "FOSSIL_SPECIMEN"    "MATERIAL_SAMPLE"   
 ```
 
 I am only interested in mapping the points that came from 'human observations'. Preserved samples or fossil specimans might skew the data depending on where they were collected. 
@@ -140,8 +129,8 @@ Weird that the GBIF dataset has less data points but in the plot, it looks like 
 length(unique(obis_human$decimallongitude)) # 152 unique longitude measurements 
 length(unique(obis_human$decimallatitude)) # 139 unique latitude measurements 
 
-length(unique(gbif_human$decimallongitude)) # 393 unique longitude measurements 
-length(unique(gbif_human$decimallatitude)) # 395 unique latitude measurements 
+length(unique(gbif_human$decimallongitude)) # 566 unique longitude measurements 
+length(unique(gbif_human$decimallatitude)) # 572 unique latitude measurements 
 
 ## Okay so the GBIS dataset has more unique lat/long measurements 
 ```
@@ -207,14 +196,14 @@ test_plot + annotate(geom = "text", x = -90, y = 37, label = "North America") +
 
 Merge datasets 
 ```{r}
-obis_human$coordinates <- paste0(obis_human$decimallatitude, sep = ", ", obis_human$decimallongitude)
+obis_human$coordinates <- paste0(obis_human$decimallongitude, sep = ", ", obis_human$decimallatitude)
 length(unique(obis_human$coordinates))
 
-gbif_human$coordinates <- paste0(gbif_human$decimalLatitude, sep = ", ", gbif_human$decimalLongitude)
+gbif_human$coordinates <- paste0(gbif_human$decimallongitude, sep = ", ", gbif_human$decimallatitude)
 length(unique(gbif_human$coordinates))
 
 merge <- full_join(obis_human, gbif_human, by = "coordinates") %>%
-  drop_na(decimalLatitude, decimallatitude, decimalLongitude, decimallongitude)
+  tidyr::drop_na(decimallongitude.x, decimallatitude.x, decimallongitude.y, decimallatitude.y)
 
 length(unique(merge$decimallongitude))
 length(unique(merge$decimallatitude))
